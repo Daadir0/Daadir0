@@ -7,7 +7,7 @@ I mainly work with Unity (2D/3D) and C#, and I also enjoy exploring Python scrip
 - 🌱 I’m learning advanced Unity techniques and backend basics.<br/>
 - 👯 I’m looking to collaborate on game projects and open-source Unity tools.<br/>
 - 💬 Ask me about Unity, C#, or how I made a Telegram bot with Python!<br/>
-- 📫 How to reach me: [[My Email](daadirforreal@gmail.com)] | [[LinkedIn Profile](https://www.linkedin.com/in/abdelkadir-abdurrahman-a72739358/)]<br/>
+- 📫 How to reach me: [daadirforreal@gmail.com] | [[LinkedIn Profile](https://www.linkedin.com/in/abdelkadir-abdurrahman-a72739358/)]<br/>
 - ⚡ Fun fact: I love mixing code and creativity to bring ideas to life!<br/>
 
 Thanks for visiting my profile! 🚀
